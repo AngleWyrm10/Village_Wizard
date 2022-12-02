@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botanypots"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid":"pamhc2foodcore"
+    }
+  ],
+  "title": {
+    "text": "Botany Pots & Pam's HarvestCraft 2",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Crops can be crafted into seeds and then grown in botany pots"
+  }
+}

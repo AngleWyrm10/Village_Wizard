@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "fenceunleashed"
+    }
+  ],
+  "title": {
+    "text": "Fence Unleashed",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Unleashed animals won't pass through open gates"
+  }
+}

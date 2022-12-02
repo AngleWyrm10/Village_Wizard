@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bonsaitrees3"
+    }
+  ],
+  "title": {
+    "text": "Bonsai Trees 3",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Put an axe and a hopper inside to automatically gather resources into an inventory beneath"
+  }
+}

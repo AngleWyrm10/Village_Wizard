@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "betteranimalsplus"
+    }
+  ],
+  "title": {
+    "text": "Better Animals Plus",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Watch out for wild boars, they have a bad attitude"
+  }
+}

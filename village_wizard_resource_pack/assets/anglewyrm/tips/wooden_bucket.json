@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "woodenbucket"
+    }
+  ],
+  "title": {
+    "text": "Wooden Bucket",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Buckets can be crafted from three logs"
+  }
+}

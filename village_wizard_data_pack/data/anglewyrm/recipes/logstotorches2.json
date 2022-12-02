@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:logs"
+        },
+		"c": {
+			"tag": "minecraft:charcoal"
+		}
+    },
+    "result": {
+        "item": "minecraft:torch",
+        "count": 8
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "luckyore:lucky_dust"
+    },
+    {
+      "item": "mysticalworld:raw_silver"
+    }
+  ],
+  "result": {
+      "item": "mysticalworld:raw_silver",
+      "count": 2
+  }
+}

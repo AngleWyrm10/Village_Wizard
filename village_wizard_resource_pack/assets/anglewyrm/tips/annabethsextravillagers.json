@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "annabethsextravillagers"
+    }
+  ],
+  "title": {
+    "text": "Annabeth's Extra Villagers",
+    "color": "green"
+  },
+  "tip":{
+    "text":"The Ceramics villager trades for clay and terracotta"
+  }
+}

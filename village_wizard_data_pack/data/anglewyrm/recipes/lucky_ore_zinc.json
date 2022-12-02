@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "luckyore:lucky_dust"
+    },
+    {
+      "item": "create:raw_zinc"
+    }
+  ],
+  "result": {
+      "item": "create:raw_zinc",
+      "count": 2
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "enchantment.piseks_tinkers_enchantments.autosmelt": "Autosmelt",
+  "enchantment.piseks_tinkers_enchantments.autosmelt.desc": "Automatically smelts item and adds 3 XP. Incompatible w/ Fortune, Silk Touch, Mending, Petramor",
+
+  "enchantment.piseks_tinkers_enchantments.well_established": "Well-Established",
+  "enchantment.piseks_tinkers_enchantments.well_established.desc": "25% bonus experience. 3% chance for 1 XP from blocks that normally give none. Incompatible w/ Mending, Looting, Fortune",
+
+  "enchantment.piseks_tinkers_enchantments.amphibious": "Amphibious",
+  "enchantment.piseks_tinkers_enchantments.amphibious.desc": "Gives Water Breathing for 3 minutes if the entity is underwater. Incompatible w/ Superhot",
+
+  "enchantment.piseks_tinkers_enchantments.spiky": "Spiky",
+  "enchantment.piseks_tinkers_enchantments.spiky.desc": "Deals 30% damage back. <<amount / 100> x 30>. Incompatible w/ Ecological",
+
+  "enchantment.piseks_tinkers_enchantments.aridiculous": "Aridiculous",
+  "enchantment.piseks_tinkers_enchantments.aridiculous.desc": "The weapon deals more damage <2,5 x lvl> if the entity is in a dry biome. Incompatible w/ Fire Aspect, Sharpness, Smite, Bane of Athropods",
+
+  "enchantment.piseks_tinkers_enchantments.beheading": "Beheading",
+  "enchantment.piseks_tinkers_enchantments.beheading.desc": "For each level +10% for dropping the mob's head. Incompatible w/ Sweeping Edge, Sharpness, Bane of Athropods, Smite, Looting",
+
+  "enchantment.piseks_tinkers_enchantments.tasty": "Tasty",
+  "enchantment.piseks_tinkers_enchantments.tasty.desc": "Feeds the player. Incompatible w/ Respiration",
+
+  "enchantment.piseks_tinkers_enchantments.synergy": "Synergy",
+  "enchantment.piseks_tinkers_enchantments.synergy.desc":"Consume one Leaves block to repair 4 durability of the item. Incompatible w/ Mending, Ecological",
+
+  "enchantment.piseks_tinkers_enchantments.lightweight": "Lightweight",
+  "enchantment.piseks_tinkers_enchantments.lightweight.desc": "Gives Speed 1. Incompatible w/ Aquadynamic",
+
+  "enchantment.piseks_tinkers_enchantments.superheat": "Superheat",
+  "enchantment.piseks_tinkers_enchantments.superheat.desc":"Deals bonus damage <8,117> to already burning targets. Incompatible w/ Fire Aspect, Hellish",
+
+  "enchantment.piseks_tinkers_enchantments.fire_storm": "Fire Storm",
+  "enchantment.piseks_tinkers_enchantments.fire_storm.desc": "Deals 3 fire damage and sets target on fire for 5 seconds. Incompatible w/ Channeling",
+
+  "enchantment.piseks_tinkers_enchantments.glowing": "Glowing",
+  "enchantment.piseks_tinkers_enchantments.glowing.desc": "Places light in dark places for a cost of 3 durability",
+
+  "enchantment.piseks_tinkers_enchantments.poisonous": "Poisonous",
+  "enchantment.piseks_tinkers_enchantments.poisonous.desc": "Gives target Poison 1 for 5 seconds. Incompatible w/ Sharpness, Smite, Bane of Athropods, Fire Aspect, Freezing, Holy, Hellish, Beheading",
+
+  "enchantment.piseks_tinkers_enchantments.fractured": "Fractured",
+  "enchantment.piseks_tinkers_enchantments.fractured.desc": "Deals bonus damage <1,5>. Incompatible w/ Prickly",
+
+  "enchantment.piseks_tinkers_enchantments.thermal_inversion": "Thermal Inversion",
+  "enchantment.piseks_tinkers_enchantments.thermal_inversion.desc": "In the cold biome, the entity is set on fire, in the hot biome Slowness 2 is given",
+
+  "enchantment.piseks_tinkers_enchantments.ambitious": "Ambitious",
+  "enchantment.piseks_tinkers_enchantments.ambitious.desc": "Every time an XP orb is collected, an extra XP between 0-4 is added. Incompatible w/ Mending",
+
+  "enchantment.piseks_tinkers_enchantments.charged": "Charged",
+  "enchantment.piseks_tinkers_enchantments.charged.desc": "Critical damage deals bonus lightning damage <2,5>",
+
+  "enchantment.piseks_tinkers_enchantments.holy": "Holy",
+  "enchantment.piseks_tinkers_enchantments.holy.desc": "Bonus damage <1,5 + lvl> to undead mobs. Incompatible w/ Smite",
+
+  "enchantment.piseks_tinkers_enchantments.precipitate": "Precipitate",
+  "enchantment.piseks_tinkers_enchantments.precipitate.desc": "Gives Haste for 10 seconds after breaking the block. Incompatible w/ Efficiency",
+
+  "enchantment.piseks_tinkers_enchantments.blessed": "Blessed",
+  "enchantment.piseks_tinkers_enchantments.blessed.desc": "If attacked by undead, undead receives Weakness < armour pieces> for <+5 per piece> seconds. Incompatible w/ Thorns",
+
+  "enchantment.piseks_tinkers_enchantments.slimey": "Slimey",
+  "enchantment.piseks_tinkers_enchantments.slimey.desc": "When using the item, 25,15% chance to spawn Slime",
+
+  "enchantment.piseks_tinkers_enchantments.baconlicious": "Baconlicious",
+  "enchantment.piseks_tinkers_enchantments.baconlicious.desc": "5% chance to drop Porkchop when the entity is killed. Incompatible w/ Loyality, Channeling, Impaling",
+
+  "enchantment.piseks_tinkers_enchantments.prickly": "Prickly",
+  "enchantment.piseks_tinkers_enchantments.prickly.desc":"Deals 11% bonus damage of max target's health per level. <<<max health / 100> x 11> x lvl>. Incompatible w/ Sharpness, Fracturated",
+
+  "enchantment.piseks_tinkers_enchantments.combustible": "Combustible",
+  "enchantment.piseks_tinkers_enchantments.combustible.desc": "If fire damage is taken, the attacker is set on fire for <1+number of pieces> seconds. Incompatible w/ Thorns, Fire Protection",
+
+  "enchantment.piseks_tinkers_enchantments.ecological": "Ecological",
+  "enchantment.piseks_tinkers_enchantments.ecological.desc": "1% chance to repair the item for 1 durability every second. Incompatible w/ Mending, Synergy",
+
+  "enchantment.piseks_tinkers_enchantments.spiny": "Spiny",
+  "enchantment.piseks_tinkers_enchantments.spiny.desc": "30% to return damage to the target",
+
+  "enchantment.piseks_tinkers_enchantments.aquadynamic": "Aquadynamic",
+  "enchantment.piseks_tinkers_enchantments.aquadynamic.desc": "Gives Speed 2 if it's raining on the entity or Dolphin's Grace 3 if the entity is in water. Incompatible w/ Thorns",
+
+  "enchantment.piseks_tinkers_enchantments.invigorating": "Invigorating",
+  "enchantment.piseks_tinkers_enchantments.invigorating.desc": "Increases max health. Incompatible w/ Calcic, Dramatic",
+
+  "enchantment.piseks_tinkers_enchantments.stalwart": "Stalwart",
+  "enchantment.piseks_tinkers_enchantments.stalwart.desc": "Critical damage gives Resistance for 30 seconds. Incompatible w/ Fire Protection, Projectile Protection, Blast Protection, Protection, Throns",
+
+  "enchantment.piseks_tinkers_enchantments.hellish": "Hellish",
+  "enchantment.piseks_tinkers_enchantments.hellish.desc":"Bonus damage <1,5 ^ lvl> to non-burning mobs. Incompatible w/ Fire Aspect, Superheat",
+
+  "enchantment.piseks_tinkers_enchantments.freezing": "Freezing",
+  "enchantment.piseks_tinkers_enchantments.freezing.desc": "Target gets Slowness +1 for every hit. Time extends too. Incompatible w/ Fire Aspect",
+
+  "enchantment.piseks_tinkers_enchantments.superhot": "Superhot",
+  "enchantment.piseks_tinkers_enchantments.superhot.desc": "When the entity is burning Speed 3 is applied. Incompatible w/ Combustible, Lightweight, Fire Protection",
+
+  "enchantment.piseks_tinkers_enchantments.dramatic": "Dramatic",
+  "enchantment.piseks_tinkers_enchantments.dramatic.desc": "When on 3 HP and lower, the entity gets Resistance 3 and Strength 2 for 30 seconds. Incompatible w/ Combustible, Calcic, Blessed",
+
+  "enchantment.piseks_tinkers_enchantments.autoforge": "Autoforge",
+  "enchantment.piseks_tinkers_enchantments.autoforge.desc": "Repairs armour piece for 1 durability whenever Fire damage is taken. Incompatible w/ Unbreaking, Mending",
+
+  "enchantment.piseks_tinkers_enchantments.breakable": "Breakable",
+  "enchantment.piseks_tinkers_enchantments.breakable.desc": "50% to deal another damage to the item. Incompatible w/ Unbreaking, Mending",
+
+  "enchantment.piseks_tinkers_enchantments.calcic": "Calcic",
+  "enchantment.piseks_tinkers_enchantments.calcic.desc": "After drinking milk, the helmet is repaired for 10 Durability and the entity gets Regeneration 1 for 5 seconds",
+
+  "enchantment.piseks_tinkers_enchantments.petramor": "Petramor",
+  "enchantment.piseks_tinkers_enchantments.petramor.desc": "10% chance for repairing 5 durability when mining stone. Incompatible w/ Mending, Autosmelt",
+
+  "enchantment.piseks_tinkers_enchantments.duritae": "Duritae",
+  "enchantment.piseks_tinkers_enchantments.duritae.desc": "When an item is used: 10% to deal more damage to the tool or 40% to repair the tool. Incompatible w/ Unbreaking",
+
+  "enchantment.piseks_tinkers_enchantments.cold_blooded": "Cold-Blooded",
+  "enchantment.piseks_tinkers_enchantments.cold_blooded.desc": "Deal bonus damage <5> if the target is in full health. Incompatible w/ Sharpness, Smite, Bane of Athropods",
+
+  "enchantment.piseks_tinkers_enchantments.dense": "Dense",
+  "enchantment.piseks_tinkers_enchantments.dense.desc": "25% chance to repair the item when used. Incompatible w/ Unbreaking, Mending",
+
+  "enchantment.piseks_tinkers_enchantments.crude": "Crude",
+  "enchantment.piseks_tinkers_enchantments.crude.desc": "Deal bonus damage if target is without armor. Incompatible w/ Sharpness, Smite, Bane of Athropods"
+}

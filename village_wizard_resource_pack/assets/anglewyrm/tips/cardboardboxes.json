@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cardboardboxes"
+    }
+  ],
+  "title": {
+    "text": "Cardboard Boxes",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Transport chests without spilling their contents. Pick them up with an empty hand"
+  }
+}

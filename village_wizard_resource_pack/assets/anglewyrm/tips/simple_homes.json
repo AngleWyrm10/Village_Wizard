@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "simplehomes"
+    }
+  ],
+  "title": {
+    "text": "Simple Homes",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Use /home [set] to teleport home"
+  }
+}

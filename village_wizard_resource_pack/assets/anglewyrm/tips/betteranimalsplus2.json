@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "betteranimalsplus"
+    }
+  ],
+  "title": {
+    "text": "Better Animals Plus",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Lampray eels often kill more than they can eat, Nature's fishermen. Careful, they bite"
+  }
+}

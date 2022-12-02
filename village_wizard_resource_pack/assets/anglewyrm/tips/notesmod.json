@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "notes"
+    }
+  ],
+  "title": {
+    "text": "Notes",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Notes can be pinned to the screen, to display to-do lists & reminders"
+  }
+}

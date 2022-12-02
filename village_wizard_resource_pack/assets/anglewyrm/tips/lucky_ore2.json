@@ -1,0 +1,15 @@
+{  
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "lucky_ore"
+    }
+  ],
+  "title": {
+    "text": "Lucky Ore",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Lucky ores are commonly found around depth 10-15"
+  }
+}

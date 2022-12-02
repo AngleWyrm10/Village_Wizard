@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "curious_armor_stands"
+    }
+  ],
+  "title": {
+    "text": "Curious Armor Stands",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Armor stands can equip up to 8 Curios"
+  }
+}

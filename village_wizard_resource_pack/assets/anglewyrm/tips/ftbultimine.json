@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ftbultimine"
+    }
+  ],
+  "title": {
+    "text": "FTB Ultimine",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Vein miner can mow grass, harvest crops, and fell trees"
+  }
+}

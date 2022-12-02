@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "sophisticatedbackpacks"
+    }
+  ],
+  "title": {
+    "text": "Sophisticated Backpacks",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Backpacks can be upgraded. You can also have more than one"
+  }
+}

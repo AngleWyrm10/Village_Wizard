@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "washingcauldron"
+    }
+  ],
+  "title": {
+    "text": "Washing Cauldron",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Dyed items can be washed clean of their color by R-Clicking them on a cauldron of water"
+  }
+}

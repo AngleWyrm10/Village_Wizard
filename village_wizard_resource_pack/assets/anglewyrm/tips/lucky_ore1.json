@@ -1,0 +1,15 @@
+{  
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "lucky_ore"
+    }
+  ],
+  "title": {
+    "text": "Village Wizard",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Lucky ore dust can be crafted with raw ores for ore doubling"
+  }
+}

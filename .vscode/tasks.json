@@ -1,0 +1,28 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {"label":"zip data pack",
+      "type":"shell",
+      "command":"winrar a -ep1 -afzip -r 'C:/Users/angle/curseforge/minecraft/Instances/Village Wizard/config/paxi/datapacks/village_wizard_data_pack.zip' village_wizard_data_pack/*",
+      "options": {"statusbar": {"hide":true}}
+    },
+    {"label":"zip resource pack",
+      "type": "shell",
+      "command":"winrar a -ep1 -afzip -r 'C:/Users/angle/curseforge/minecraft/Instances/Village Wizard/config/paxi/resourcepacks/village_wizard_resource_pack.zip' village_wizard_resource_pack/*",
+      "options": {"statusbar": {"hide":true}}
+    },
+    { "label": "assemble packs",
+      "type": "shell",
+      "command": "echo 'Transferred files to Village Wizard/config/paxi'",
+      "dependsOn":["zip data pack", "zip resource pack"],
+      "options":{
+        "statusbar": {
+          "label": "Village Wizard",
+          "color": "#67eb65"
+        }
+      }
+    }
+  ]
+}

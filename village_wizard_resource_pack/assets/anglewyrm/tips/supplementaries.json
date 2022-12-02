@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "title": {
+    "text": "Supplementaries",
+    "color": "green"
+  },
+  "tip":{
+    "text":"R-click a map on a bed, portal or signpost to add a marker to the map"
+  }
+}

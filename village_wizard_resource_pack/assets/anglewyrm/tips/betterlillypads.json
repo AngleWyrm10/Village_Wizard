@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "betterlily"
+    }
+  ],
+  "title": {
+    "text": "Better Lilypads",
+    "color": "green"
+  },
+  "tip":{
+    "text": "Candles, torches and other things can be placed on lily pads"
+  }
+}

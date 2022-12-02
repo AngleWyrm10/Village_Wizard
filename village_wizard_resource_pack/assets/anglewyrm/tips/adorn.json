@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "adorn"
+    }
+  ],
+  "title": {
+    "text": "Adorn",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Torches made from stone are brighter"
+  }
+}

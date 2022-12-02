@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "instantblocks"
+    }
+  ],
+  "title": {
+    "text": "Instant Blocks",
+    "color": "green"
+  },
+  "tip":{
+    "text":"R-click an instant block with a wand to summon it's structure"
+  }
+}

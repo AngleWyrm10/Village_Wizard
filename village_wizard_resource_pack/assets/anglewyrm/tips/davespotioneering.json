@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "davespotioneering"
+    }
+  ],
+  "title": {
+    "text": "Dave's Potioneering",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Potions stack, and splash potions can be thrown much farther"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettershears3"
+    }
+  ],
+  "title": {
+    "text": "Better Shears 3",
+    "color": "green"
+  },
+  "tip":{
+    "text": "Wooden shears can be crafted from a pair of sticks"
+  }
+}

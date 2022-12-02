@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bettercombat"
+    }
+  ],
+  "title": {
+    "text": "Better Combat",
+    "color": "green"
+  },
+  "tip":{
+    "text": "Hold L-click to spam attack. Weapons swing through grass and other things"
+  }
+}

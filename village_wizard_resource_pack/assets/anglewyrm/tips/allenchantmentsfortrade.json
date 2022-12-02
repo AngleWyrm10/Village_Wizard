@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "allenchantmentsfortrade"
+    }
+  ],
+  "title": {
+    "text": "All Enchantments for Trade",
+    "color": "green"
+    },
+  "tip":{
+    "text":"Librarians have a wide selection of enchanted books"
+  }
+}

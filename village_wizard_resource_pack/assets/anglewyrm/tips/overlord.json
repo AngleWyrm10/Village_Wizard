@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "overlord"
+    }
+  ],
+  "title": {
+    "text": "Overlord",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Summon skeleton minions from a graveyard"
+  }
+}
