@@ -1,0 +1,19 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "toms_storage"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid":"prettypipes"
+    }
+  ],
+  "title": {
+    "text": "Tom's Storage & Pretty Pipes",
+    "color": "green"
+  },
+  "tip":{
+    "text":"Pretty Pipes can be connected to the storage controller to pull from and insert into the storage network"
+  }
+}
